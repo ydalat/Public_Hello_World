@@ -5,3 +5,5 @@ https://ydalat-hello-world-sentimentanalyzerbestandworst-14ud2u.streamlit.app
 https://ydalat-hello-world-sentimentanalyzercategory-ojx8wo.streamlit.app
 https://ydalat-hello-world-sentimentanalyzerovertime-fx3acj.streamlit.app
 https://ydalat-hello-world-pdfanalyzer-jdpb9x.streamlit.app
+https://innovationlounge.streamlit.app
+https://airesources.streamlit.app/
